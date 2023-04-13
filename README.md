@@ -8,7 +8,7 @@
 
 #### Contatos:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-vitor-almeida-059486218/)
+<a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-almeida-059486218/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "mailto:joaoalmei.vitor@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
 
 ![João Vitor GitHub stats](https://github-readme-stats.vercel.app/api?username=joaoalmei&show_icons=true&theme=dark)
