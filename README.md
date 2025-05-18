@@ -30,8 +30,8 @@
 
 ## Projetos principais
 
-- [Roteiriza (Projeto 1)](https://github.com/joaoalmei/pmv-ads-2024-1-e3-proj-mov-t7-roteiriza) — Projeto acadêmico PUC Minas.
-- [Atelier da Costura (Projeto 2)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2025-1-e5-proj-empext-t5-atelier-da-costura) — Projeto acadêmico PUC Minas.
+- [Roteiriza](https://github.com/joaoalmei/pmv-ads-2024-1-e3-proj-mov-t7-roteiriza) — Projeto acadêmico PUC Minas.
+- [Atelier da Costura](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2025-1-e5-proj-empext-t5-atelier-da-costura) — Projeto acadêmico PUC Minas.
 
 ---
 
