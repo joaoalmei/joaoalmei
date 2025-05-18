@@ -33,9 +33,19 @@
 
 ## Featured Projects
 
-- [Roteiriza](https://github.com/joaoalmei/pmv-ads-2024-1-e3-proj-mov-t7-roteiriza) — Academic project developed at PUC Minas.
+### <img src="https://github.com/user-attachments/assets/2f1e46d5-5472-4558-b75f-7f74600cac93" height="20"/> [The Office](https://github.com/joaoalmei/pmv-ads-2024-2-e4-proj-infra-t5-the-office-1)
 
-- [Atelier da Costura](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2025-1-e5-proj-empext-t5-atelier-da-costura) — Extension project developed at PUC Minas.
+> **The Office** is a human resources management system designed to centralize and optimize HR-related processes, such as time tracking, vacation requests, payslip access, and company organizational chart visualization.  
+>  
+> Its goal is to improve efficiency, transparency, and internal communication, serving both managers—who benefit from an integrated and simplified view of operations—and employees, who can autonomously and intuitively manage their own information.
+
+---
+
+### <img src="https://github.com/user-attachments/assets/d56f6577-1744-4bdd-8953-f5621ab6d830" height="20"/> [Atelier da Costura](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2025-1-e5-proj-empext-t5-atelier-da-costura)
+
+> **Atelier da Costura** is a sociotechnical system developed for a small tailoring business. The platform enables efficient management of orders, clients, and expenses, while also integrating with WhatsApp to automate communication.  
+>  
+> It includes features such as financial and operational dashboards, client and order management, and automatic messaging via WhatsApp to enhance communication and service organization.
 
 ---
 
