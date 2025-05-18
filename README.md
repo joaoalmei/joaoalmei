@@ -1,6 +1,6 @@
 
-[<img src="https://cdn-icons-png.flaticon.com/16/555/555526.png" alt="English" /> English](#english-version) | 
-[<img src="https://cdn-icons-png.flaticon.com/16/197/197386.png" alt="Português" /> Português](#versão-em-português)
+[<img src="https://cdn-icons-png.flaticon.com/16/555/555526.png" alt="English" /> English](#english) | 
+[<img src="https://cdn-icons-png.flaticon.com/16/197/197386.png" alt="Português" /> Português](#português)
 
 ---
 
