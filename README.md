@@ -1,6 +1,6 @@
-# Olá, eu sou [Seu Nome] 👋
+# Olá, eu sou João Vitor 👋
 
-![GitHub followers](https://img.shields.io/github/followers/seu-usuario?style=social)
+![GitHub followers](https://img.shields.io/github/followers/joaoalmei?style=social)
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)
 ![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)
 
@@ -8,14 +8,14 @@
 
 ## Sobre mim
 
-🎓 Estudante de [Seu curso ou área] | 💻 Desenvolvedor Frontend | 🚀 Apaixonado por tecnologias web e inovação.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas | 💻 Desenvolvedor | 🚀 Apaixonado por tecnologias web e inovação.
 
 ---
 
 ## Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:seu-email@exemplo.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-vitor-almeida-059486218/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:joaoalmei.dev@gmail.com)
 
 ---
 
@@ -34,8 +34,8 @@
 
 ## Projetos principais
 
-- [Projeto 1](https://github.com/seu-usuario/projeto1) — descrição curta do projeto
-- [Projeto 2](https://github.com/seu-usuario/projeto2) — descrição curta do projeto
+- [Roteiriza (Projeto 1)](https://github.com/joaoalmei/pmv-ads-2024-1-e3-proj-mov-t7-roteiriza) — Projeto acadêmico PUC Minas.
+- [Atelier da Costura (Projeto 2)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2025-1-e5-proj-empext-t5-atelier-da-costura) — Projeto acadêmico PUC Minas.
 
 ---
 
