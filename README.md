@@ -4,7 +4,7 @@
 
 ---
 
-## Versão em Português
+## Português
 
 # Olá, eu sou João Vitor 👋
 
@@ -51,7 +51,9 @@ Tenho experiência prática em ambientes hospitalares com suporte técnico e des
 
 ---
 
-## English Version
+<br><br><br><br>
+
+## English
 
 # Hello, I'm João Vitor 👋
 
