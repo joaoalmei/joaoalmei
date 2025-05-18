@@ -12,7 +12,7 @@
 
 ## Sobre mim
 
-Estudante de Análise e Desenvolvimento de Sistemas na PUC Minas. Open to Work.
+Estudante de Análise e Desenvolvimento de Sistemas na PUC Minas. 
 
 Tenho experiência prática em ambientes hospitalares com suporte técnico e desenvolvimento de sistemas internos. Atuei com manutenção de sistemas legados e desenvolvimento de scripts em PL/SQL, além de ferramentas como C#, ASP.NET, React, JavaScript e Sistema MV.
 
@@ -59,7 +59,7 @@ Tenho experiência prática em ambientes hospitalares com suporte técnico e des
 
 ## About Me
 
-Systems Analysis and Development student at PUC Minas. Open to Work.
+Systems Analysis and Development student at PUC Minas. 
 
 I have practical experience in technical support and internal system development in healthcare environments. I worked on legacy systems maintenance and PL/SQL scripting, using tools like C#, ASP.NET, JavaScript, React, and MV System.
 
