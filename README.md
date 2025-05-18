@@ -27,8 +27,6 @@ Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedor focado em so
   <img alt="Sistema MV" src="./assets/maldives.png" width="40" height="40" />
 </p>
 
-<p align="center"><i>Developer | C# | ASP.NET | JS | React | Sistema MV | PUC Minas</i></p>
-
 ---
 
 ## Projetos principais
