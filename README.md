@@ -1,10 +1,10 @@
-<!-- Selector de idioma -->
+
 [<img src="https://cdn-icons-png.flaticon.com/16/555/555526.png" alt="English" /> English](#english-version) | 
 [<img src="https://cdn-icons-png.flaticon.com/16/197/197386.png" alt="Português" /> Português](#versão-em-português)
 
 ---
 
-## 🇧🇷 Versão em Português
+## Versão em Português
 
 # Olá, eu sou João Vitor 👋
 
@@ -51,7 +51,7 @@ Tenho experiência prática em ambientes hospitalares com suporte técnico e des
 
 ---
 
-## 🇺🇸 English Version
+## English Version
 
 # Hello, I'm João Vitor 👋
 
