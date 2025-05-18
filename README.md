@@ -74,7 +74,7 @@ I have practical experience in healthcare environments with technical support an
 
 ---
 
-## Languages and Tools <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20" alt="Wave" />
+## Languages and Tools
 
 <p align="center">
   <img alt="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
