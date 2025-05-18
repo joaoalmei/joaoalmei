@@ -6,7 +6,7 @@
 
 ## Português
 
-# Olá, eu sou João Vitor 👋
+# Olá, eu sou João Vitor <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20" alt="Aceno" />
 
 ---
 
@@ -25,7 +25,7 @@ Tenho experiência prática em ambientes hospitalares com suporte técnico e des
 
 ---
 
-## Linguagens e Ferramentas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20" alt="Aceno" />
+## Linguagens e Ferramentas 
 
 <p align="center">
   <img alt="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
@@ -55,7 +55,7 @@ Tenho experiência prática em ambientes hospitalares com suporte técnico e des
 
 ## English
 
-# Hello, I'm João Vitor 👋
+# Hello, I'm João Vitor <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20" alt="Aceno" />
 
 ---
 
