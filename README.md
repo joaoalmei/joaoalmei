@@ -15,12 +15,12 @@ Atualmente, foco na criação de **soluções web**, priorizando **usabilidade**
 ## 🛠️ Tecnologias e Ferramentas
 
 - **C#**  
-- **ASP.NET**  
+- **PL/SQL** 
+- **.NET**  
 - **React**  
 - **JavaScript (ES6+)**  
 - **TypeScript**  
 - **HTML5 & CSS3**  
-- **PL/SQL**  
 - **Git & GitHub**  
 - **Figma**  
 
