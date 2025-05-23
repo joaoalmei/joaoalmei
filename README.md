@@ -1,9 +1,5 @@
 # 🧑‍💻 João Almeida — Desenvolvedor
 
-<p align="center">
-  <img src="/assets/black.gif" alt="Preview do Portfólio" width="700" />
-</p>
-
 ---
 
 ## 🖥️ Sobre Mim
@@ -41,7 +37,7 @@ Atualmente, foco na criação de **soluções web**, priorizando **usabilidade**
 ### 🎮 Match Game  
 O **Match Game** soluciona os problemas dos gamers na escolha de jogos, ajudando-os a descobrir novos títulos com base em suas preferências.  
 Nosso algoritmo recomenda jogos compatíveis e permite ao usuário criar uma **biblioteca pessoal**.
-  
+
 🔗 [Acesse o projeto no GitHub](https://github.com/joaoalmei/pmv-ads-2023-2-e2-proj-int-t2-match-game)
 
 ---
@@ -73,14 +69,7 @@ Aplicativo que visa **simplificar o planejamento de viagens**, com roteiros deta
 Se quiser conversar sobre **oportunidades**, **parcerias** ou **projetos** — ou simplesmente trocar uma ideia —, me chama:
 
 - 💼 [LinkedIn](https://linkedin.com/in/joaoalmei)  
-- 🖥️ [GitHub](https://github.com/joaoalmei)  
 - 📧 joaoalmei.dev@email.com  
 
 ---
 
-## ✨ Curiosidades
-
-- Apaixonado por unir **lógica** e **criatividade** para resolver problemas reais.  
-- Sempre em busca de **novas tecnologias** e **melhores práticas**.  
-
----
