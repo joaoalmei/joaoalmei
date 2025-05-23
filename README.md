@@ -6,12 +6,6 @@
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** na **PUC Minas**, com experiência prática em ambientes hospitalares, atuando com **suporte técnico** e **desenvolvimento de sistemas internos**.
 
-Tenho vivência com **manutenção de sistemas legados** e **desenvolvimento de scripts PL/SQL**, além de experiência com as seguintes tecnologias:
-
-- **C#**, **ASP.NET**
-- **React**, **JavaScript**, **TypeScript**
-- **Sistema MV**
-
 Atualmente, foco na criação de **soluções web**, priorizando **usabilidade**, **design** e **experiência do usuário** como freelancer.
 
 🔗 [Acesse meu portfólio](https://joaoalmei.github.io/portfolio/)
