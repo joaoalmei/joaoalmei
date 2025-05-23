@@ -1,10 +1,8 @@
-# 🧑‍💻 João Almei — Desenvolvedor
+# 🧑‍💻 João Almeida — Desenvolvedor
 
 <p align="center">
   <img src="/assets/black.gif" alt="Preview do Portfólio" width="700" />
 </p>
-
-🔗 [Acesse meu portfólio](https://joaoalmei.github.io/portfolio/)
 
 ---
 
@@ -19,6 +17,8 @@ Tenho vivência com **manutenção de sistemas legados** e **desenvolvimento de 
 - **Sistema MV**
 
 Atualmente, foco na criação de **soluções web**, priorizando **usabilidade**, **design** e **experiência do usuário** como freelancer.
+
+🔗 [Acesse meu portfólio](https://joaoalmei.github.io/portfolio/)
 
 ---
 
@@ -61,14 +61,6 @@ Melhora a eficiência, transparência e comunicação entre **gestores** e **col
 ### ✈️ Roteiriza  
 Aplicativo que visa **simplificar o planejamento de viagens**, com roteiros detalhados, integração de **gastos**, **hospedagens**, **passagens** e **mala de viagem**.  
 🔗 [Acesse o projeto no GitHub](https://github.com/joaoalmei/pmv-ads-2024-1-e3-proj-mov-t7-roteiriza)
-
----
-
-## 🎞️ Demonstração
-
-<div align="center">
-  <img src="/assets/giftransicao.gif" alt="Mode Flow GIF" width="450" style="margin: 20px;"/>
-</div>
 
 ---
 
