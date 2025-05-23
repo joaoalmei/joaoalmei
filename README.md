@@ -40,13 +40,15 @@ Atualmente, foco na criação de **soluções web**, priorizando **usabilidade**
 
 ### 🎮 Match Game  
 O **Match Game** soluciona os problemas dos gamers na escolha de jogos, ajudando-os a descobrir novos títulos com base em suas preferências.  
-Nosso algoritmo recomenda jogos compatíveis e permite ao usuário criar uma **biblioteca pessoal**.  
+Nosso algoritmo recomenda jogos compatíveis e permite ao usuário criar uma **biblioteca pessoal**.
+  
 🔗 [Acesse o projeto no GitHub](https://github.com/joaoalmei/pmv-ads-2023-2-e2-proj-int-t2-match-game)
 
 ---
 
 ### 🌱 Planty  
 O **Planty** fornece orientações fundamentais para o **cultivo de plantas**, sendo uma plataforma confiável para iniciantes e entusiastas experientes.  
+
 🔗 [Acesse o projeto no GitHub](https://github.com/joaoalmei/pmv-ads-2023-1-e1-proj-web-t1-projeto-cultivo-de-plantas)
 
 ---
@@ -54,12 +56,14 @@ O **Planty** fornece orientações fundamentais para o **cultivo de plantas**, s
 ### 🏢 The Office  
 Sistema de gestão de **Recursos Humanos** que centraliza processos como **controle de ponto**, **férias** e **holerites**.  
 Melhora a eficiência, transparência e comunicação entre **gestores** e **colaboradores**.  
+
 🔗 [Acesse o projeto no GitHub](https://github.com/joaoalmei/pmv-ads-2024-2-e4-proj-infra-t5-the-office-1)
 
 ---
 
 ### ✈️ Roteiriza  
 Aplicativo que visa **simplificar o planejamento de viagens**, com roteiros detalhados, integração de **gastos**, **hospedagens**, **passagens** e **mala de viagem**.  
+
 🔗 [Acesse o projeto no GitHub](https://github.com/joaoalmei/pmv-ads-2024-1-e3-proj-mov-t7-roteiriza)
 
 ---
